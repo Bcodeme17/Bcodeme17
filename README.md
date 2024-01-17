@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Bcodeme17
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning html css
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ceteficate
+- 📫 How to reach me burukkin2004@gmail.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: coder on ethiopia
 
